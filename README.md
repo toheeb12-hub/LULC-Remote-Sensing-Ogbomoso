@@ -65,7 +65,7 @@ The classification identified five principal land-cover categories.
 
 ---
 
-# 🔬 Classification Approaches
+#  Classification Approaches
 
 ## 01 — Unsupervised Classification
 
