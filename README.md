@@ -1,16 +1,6 @@
 ````markdown
 #  Land Use/Land Cover Classification — Ogbomoso North
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Remote%20Sensing-Earth%20Observation-0e75b6?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/GIS-Spatial%20Analysis-27ae60?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/LULC-Classification-8e44ad?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Year-2025-2c3e50?style=for-the-badge">
-
 </p>
 
 ---
@@ -305,16 +295,16 @@ Demonstrating how satellite-derived information can be converted into useful geo
 
 ## Unsupervised Classification — 2025
 
-<p align="center">
-<img src="maps/ogbomoso_north_unsupervised_2025.png" width="90%">
+<img width="9919" height="7019" alt="new class121" src="https://github.com/user-attachments/assets/5fa31fd8-2cee-4ade-b70f-b91c5f0ac46f" />
+
 </p>
 
 ---
 
 ## Supervised Classification — 2025
 
-<p align="center">
-<img src="maps/ogbomoso_north_supervised_2025.png" width="90%">
+<img width="9919" height="7019" alt="new class122" src="https://github.com/user-attachments/assets/4bc0e537-6364-4699-9226-6fc03802ab4c" />
+
 </p>
 
 ---
