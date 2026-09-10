@@ -4,7 +4,6 @@
 </p>
 
 ---
-
 ##  Project Overview
 
 This project focused on the **Land Use/Land Cover (LULC) classification of Ogbomoso North, Oyo State, Nigeria**, using remote sensing and Geographic Information System (GIS) techniques.
@@ -390,22 +389,4 @@ Nigeria
 
 ### Areas of Interest
 
-`GIS` • `Remote Sensing` • `Earth Observation` • `Spatial Data Science` • `Environmental Mapping` • `Urban Analytics` • `UAV Mapping` • `Surveying`
-
----
-
-#  Project Philosophy
-
-> **Observe the landscape. Classify the patterns. Understand the change.**
-
-This project represents my interest in applying **remote sensing, GIS and Earth observation technologies to transform spatial data into meaningful information for environmental monitoring, urban planning and sustainable land management.**
-
----
-
-<p align="center">
-
-###  From Satellite Data → Spatial Information → Geospatial Intelligence
-
-</p>
-```
-
+`GIS` • `Remote Sensing` • `Earth Observation` • `Spatial Data Science` • `Environmental Mapping and Digital Agriculture` • `Urban Analytics` • `UAV Mapping`
